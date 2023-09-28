@@ -36,6 +36,6 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 18,
     marginVertical: 8,
-    color: 'white', // Adjust text color
+    color: '#ccc',
   },
 });
